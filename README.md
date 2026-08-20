@@ -68,6 +68,6 @@ A full-stack, cross-platform mobile and web ecosystem connecting mobile phone ve
 ---
 
 ### 📬 Connect & Contact
-- **Email:** [nasyfhydr52@gmail.com](mailto:nasyfhydr52@gmail.com)
+- **Email:** [nasyfhydr8@gmail.com](mailto:nasyfhydr8@gmail.com)
 - **GitHub:** [haider-nassif](https://github.com/haider-nassif)
 - **LinkedIn:** [Haider Nassif](https://www.linkedin.com/in/%D8%AD%D9%8A%D8%AF%D8%B1-%D9%86%D8%A7%D8%B5%D9%8A%D9%81-29a3b23b2)
