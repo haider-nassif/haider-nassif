@@ -62,8 +62,10 @@ A full-stack, cross-platform mobile and web ecosystem connecting mobile phone ve
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haider-nassif&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=haider-nassif&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider-nassif&layout=compact&theme=tokyonight" height="175"/>
 </p>
+
 
 ---
 
