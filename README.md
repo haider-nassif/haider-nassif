@@ -8,6 +8,7 @@ I design and build high-performance web applications and cross-platform mobile a
 ---
 
 ### 🚀 About Me
+- 🌐 **Languages:** English (B2 - C1 | Upper-Intermediate to Advanced Proficiency), Arabic (Native)
 - 🔭 **Current Focus:** Building scalable multi-vendor marketplaces, AI-assisted tools, and cross-platform mobile ecosystems.
 - 💻 **Core Stack:** Next.js, React Native (Expo), Node.js, Express, PostgreSQL, Prisma ORM.
 - ⚡ **Specialties:** GIS & Geolocation Services (Leaflet/Google Maps), Social Graphs & Push Pipelines, AI Integrations, Full-Stack E-Commerce.
@@ -61,8 +62,7 @@ A full-stack, cross-platform mobile and web ecosystem connecting mobile phone ve
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haider-nassif&show_icons=true&theme=tokyonight&count_private=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider-nassif&layout=compact&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haider-nassif&theme=tokyonight" height="170"/>
 </p>
 
 ---
